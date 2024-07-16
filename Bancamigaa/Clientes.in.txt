@@ -1,0 +1,5 @@
+Juan,Perez,1234567890,30,retiro,100,deposito,200,pago,50
+Maria,Gomez,2345678901,25,consulta,0.0,actualizacion,0.0
+Carlos,Lopez,3456789012,35,retiro,150.0,deposito,300.0
+Ana,Martinez,4567890123,80,consulta,0.0,actualizacion,0.0,pago,70.0
+Luis,Fernandez,5678901234,45,retiro,200.0,deposito,400.0,pago,100.0
